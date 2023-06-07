@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+    <img src="https://media.tenor.com/yIZbhasDNm0AAAAd/blue-lock-isagi.gif" alt="Isagi Yoichi" width="200">
+    <h1 align="center">Yare yare Daze</h1>
+    <h3 align="center">Apasionado por la música, anime, mangas, la programación y desarrollo de videojuegos 2D. En mis días libres disfruto ir al cine, salir por un café y probar diferentes variedades de comida. Soy fanático de juegos como Fortnite y The Witcher 3.
+
+    </h3>
+</div>
