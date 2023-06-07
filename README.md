@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 <p align="center">
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F72E&width=435&lines=Desarrollador+de+Videojuegos+2D" alt="Typing SVG" /></a>
+    <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F72E&width=435&lines=Desarrollador+de+Videojuegos+2D" alt="Typing SVG" /></a>
   </p>
 
 <!-- Social icons section -->
 <p align="center">
-    <a href="https://www.youtube.com/@erlandero"><img width="32px" alt="Youtube Logo" title="Youtube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/2048px-YouTube_social_white_squircle.svg.png"/></a>
+    <a href="https://www.youtube.com/@erlandero"><img width="32px" alt="Youtube Logo" title="Youtube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/2048px-YouTube_social_white_squircle.svg.png" target="_blank"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/ericklandero99/"><img width="32px" alt="Instagram" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png"/></a>
+    <a href="https://www.instagram.com/ericklandero99/"><img width="32px" alt="Instagram" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" target="_blank"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
 
